@@ -1,4 +1,1 @@
-vamos ahi 
-modificado primer fichero del repositorio
-
-Este archivo incluye los detalles de la nueva funcionalidad de gestión de usuarios.
+Nueva funcionalidad: Generar reportes automáticos de ventas para clientes.
