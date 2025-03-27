@@ -1,4 +1,4 @@
-vamos ahi 
-modificado primer fichero del repositorio
-
 Este archivo incluye los detalles de la nueva funcionalidad de gestión de usuarios.
+Feature REQ_002 en Primer fichero del repositorio
+
+
