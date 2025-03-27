@@ -1,4 +1,8 @@
+ HEAD
 Este archivo incluye los detalles de la nueva funcionalidad de gestión de usuarios.
 Feature REQ_002 en Primer fichero del repositorio
 
 
+
+Nueva funcionalidad: Generar reportes automáticos de ventas para clientes.
+ feature_REQ001
